@@ -50,7 +50,7 @@ walletPassword=
 listeners=
 variablesFile=
 variables=
-initParams=
+initParams=memory_target=0,sga_target=2GB,sga_max_size=2GB,pga_aggregate_target=1GB,pga_aggregate_limit=2880MB
 sampleSchema=TRUE
 memoryPercentage=
 databaseType=
