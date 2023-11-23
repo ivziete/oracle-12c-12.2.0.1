@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+mount -o remount,size=8G /dev/shm
 set -e
 source /assets/colorecho
 
